@@ -13,6 +13,7 @@ This project implements a system for **facial expression recognition** using mac
 ## Example Output
 
 Here are sample outputs from the system showing emotion recognition with bounding boxes drawn around detected faces:
+
 ![Detected Emotion](imgs/angry_with_bbox.jpg)
 ![Detected Emotion](imgs/happy_with_bbox.jpg)
 
